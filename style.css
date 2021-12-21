@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background: rgb(106, 245, 106);
+}
+
+.listoffaces{
+
+    color: dodgerblue;
+}
+
+.heading{
+
+    width:80%;
+    font-size: large;
+}
+
+#camera{
+
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#resultfacename,#resultfaceaccuracy{
+
+    color: rgb(199, 87, 47);
+    
+}
